@@ -312,7 +312,7 @@ jQuery(document).ready(function($) {
 
     function initializes() {
         var contentString = '<div id="gmaps">' +
-                '<img src="http://demo.flexy-codes.com/flexyblog/images/writers/staff-1.jpg" alt="" /><br />' +
+                '<img src="/images/Me-226.png" alt="" /><br />' +
                 '<p style="font-family: Arial, Helvetica, sans-serif;">44 E. 8th Street Suite 300 Holland.<br /><br />Phone: +61 3 8376 6284</p>' +
                 '</div>';
 
